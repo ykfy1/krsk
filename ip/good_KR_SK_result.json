@@ -378,6 +378,24 @@
     "geo": "未知归属地"
   },
   {
+    "ip_port": "221.117.137.22:8888",
+    "ip": "221.117.137.22",
+    "port": "8888",
+    "version": "",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "千葉縣 Ichikawa | ARTERIA Networks Corporation"
+  },
+  {
+    "ip_port": "221.117.142.145:8888",
+    "ip": "221.117.142.145",
+    "port": "8888",
+    "version": "",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "千葉縣 Ichikawa | ARTERIA Networks Corporation"
+  },
+  {
     "ip_port": "221.117.194.53:8888",
     "ip": "221.117.194.53",
     "port": "8888",
@@ -506,6 +524,15 @@
   {
     "ip_port": "221.141.56.154:8888",
     "ip": "221.141.56.154",
+    "port": "8888",
+    "version": "",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "Daejeon Jung-gu | SK Broadband Co Ltd"
+  },
+  {
+    "ip_port": "221.141.62.195:8888",
+    "ip": "221.141.62.195",
     "port": "8888",
     "version": "",
     "max_client": "",
@@ -1077,7 +1104,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "首尔特别市 Yeongdeungpo-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.7.99:4022",
@@ -1095,7 +1122,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "首尔特别市 Yeongdeungpo-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.8.137:8888",
@@ -1122,7 +1149,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "首尔特别市 Gwangjin-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.25.81:8888",
@@ -1131,16 +1158,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
-  },
-  {
-    "ip_port": "221.143.25.83:8888",
-    "ip": "221.143.25.83",
-    "port": "8888",
-    "version": "",
-    "max_client": "",
-    "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "首尔特别市 Gwangjin-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.25.189:4022",
@@ -1194,7 +1212,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "首尔特别市 Yangcheon-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.38.57:8888",
@@ -1203,7 +1221,7 @@
     "version": "v. 1.0 Build 23",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "首尔特别市 Yangcheon-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.41.123:8888",
@@ -1221,7 +1239,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "首尔特别市 Yangcheon-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.46.94:8888",
@@ -1239,7 +1257,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "首尔特别市 Yangcheon-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.66.19:8888",
@@ -1257,7 +1275,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "Jeollanam-do 羅州市 | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.66.217:8888",
@@ -1266,7 +1284,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "Jeollanam-do 羅州市 | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.68.35:8888",
@@ -1275,7 +1293,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "Jeollanam-do 羅州市 | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.69.57:8888",
@@ -1284,7 +1302,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "Jeollanam-do 羅州市 | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.73.216:8888",
@@ -1293,7 +1311,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "首尔特别市 首尔特别市 | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.73.221:8888",
@@ -1302,7 +1320,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "首尔特别市 首尔特别市 | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.77.5:8888",
@@ -1311,7 +1329,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "Jeollanam-do 羅州市 | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.80.210:8888",
@@ -1320,7 +1338,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "光州广域市 Buk-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.80.215:8888",
@@ -1329,7 +1347,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "光州广域市 Buk-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.84.203:8888",
@@ -1338,7 +1356,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "光州广域市 Buk-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.84.223:8888",
@@ -1347,7 +1365,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "光州广域市 Buk-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.88.77:8888",
@@ -1356,7 +1374,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "光州广域市 Buk-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.88.98:8888",
@@ -1365,7 +1383,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "光州广域市 Buk-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.93.24:8888",
@@ -1374,7 +1392,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "光州广域市 Buk-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.93.106:8888",
@@ -1383,7 +1401,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "光州广域市 Buk-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.99.221:8888",
@@ -1392,7 +1410,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "Jeollabuk-do Gunsan | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.100.39:8888",
@@ -1401,7 +1419,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "Jeollabuk-do Gunsan | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.102.83:8888",
@@ -1410,7 +1428,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "Jeollabuk-do Gunsan | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.102.157:8888",
@@ -1419,7 +1437,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "Jeollabuk-do Gunsan | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.104.236:8888",
@@ -1437,7 +1455,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "Jeollabuk-do Gunsan | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.106.138:8888",
@@ -1464,7 +1482,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "首尔特别市 Mapo-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.119.71:8888",
@@ -1473,7 +1491,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "首尔特别市 Mapo-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.119.83:8888",
@@ -1482,7 +1500,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "首尔特别市 Mapo-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.119.85:8888",
@@ -1491,7 +1509,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "首尔特别市 Mapo-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.119.130:8888",
@@ -1509,7 +1527,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "首尔特别市 Mapo-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.119.171:8888",
@@ -1518,7 +1536,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "首尔特别市 Mapo-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.119.174:8888",
@@ -1536,7 +1554,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "首尔特别市 Mapo-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.119.216:8888",
@@ -1545,7 +1563,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "首尔特别市 Mapo-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.119.240:8888",
@@ -1554,7 +1572,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "首尔特别市 Mapo-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.121.11:8888",
@@ -1563,7 +1581,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "首尔特别市 Mapo-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.121.12:8888",
@@ -1581,7 +1599,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "首尔特别市 Mapo-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.121.121:8888",
@@ -1590,7 +1608,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "首尔特别市 Mapo-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.121.125:8888",
@@ -1599,7 +1617,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "首尔特别市 Mapo-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.121.127:8888",
@@ -1608,7 +1626,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "首尔特别市 Mapo-gu | SK Broadband Co Ltd"
   },
   {
     "ip_port": "221.143.121.139:8888",
@@ -1802,6 +1820,15 @@
   {
     "ip_port": "221.143.133.61:8888",
     "ip": "221.143.133.61",
+    "port": "8888",
+    "version": "",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "未知归属地"
+  },
+  {
+    "ip_port": "221.143.133.67:8888",
+    "ip": "221.143.133.67",
     "port": "8888",
     "version": "",
     "max_client": "",
@@ -2027,6 +2054,15 @@
   {
     "ip_port": "221.143.219.60:8888",
     "ip": "221.143.219.60",
+    "port": "8888",
+    "version": "",
+    "max_client": "",
+    "current_conn": "",
+    "geo": "未知归属地"
+  },
+  {
+    "ip_port": "221.143.219.92:8888",
+    "ip": "221.143.219.92",
     "port": "8888",
     "version": "",
     "max_client": "",
