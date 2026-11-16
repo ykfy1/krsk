@@ -102,7 +102,7 @@ jobs:
           > zubo.txt
           # 自定义城市顺序，新增城市直接追加一行
           city_list=(
-            "txt/KR_SK.txt.txt"
+            "txt/KR_SK.txt"
             #"txt/Beijing_dianxin.txt"
             #"txt/Guangzhou_dianxin.txt"
           )
